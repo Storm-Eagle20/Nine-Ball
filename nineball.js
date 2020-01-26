@@ -1,5 +1,5 @@
 const Eris = require("eris");
-const bot = new Eris("NTc0NTY5OTc0NDkzMDg1NzA2.Xi17_Q.NgI5PUtDosXaS649geYuEO_K_IM");
+const bot = new Eris("removed");
 
 const channelId = "574552831793692672"; //#ping-log
 
